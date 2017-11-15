@@ -1,0 +1,14 @@
+# Ignore Finder files
+.DS_Store
+
+# Ignore private credentials
+.ssh
+
+# Ignore vagrant configurations
+.vagrant
+
+# Ignore SVN files
+.svn
+
+# Ignore image to build
+img/
